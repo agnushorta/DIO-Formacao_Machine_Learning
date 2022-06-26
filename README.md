@@ -83,4 +83,4 @@ Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seg
 
 
 ## Outras referências (pessoal):
-- (Deep learning—a first meta-survey of selected reviews across scientific disciplines, their commonalities, challenges and research impact)[https://peerj.com/articles/cs-773/]
+- [Deep learning—a first meta-survey of selected reviews across scientific disciplines, their commonalities, challenges and research impact](https://peerj.com/articles/cs-773/)
