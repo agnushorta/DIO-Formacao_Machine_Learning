@@ -65,3 +65,22 @@
 
         - Redes de Detecção
             - YOLO - VGG + Inception V3
+
+    - Arquitetura de um Carro Autônomo
+
+
+# **Materiais de Apoio**
+
+## **Slides**
+
+A apresentação completa utilizada durante o curso está disponível [aqui](https://docs.google.com/presentation/d/1lf5Z39hwxqIa-WGLAxkcuJTpEjO-TfDz/edit?usp=sharing&amp;ouid=105300330738120646134&amp;rtpof=true&amp;sd=true)
+
+## **GitHub**
+
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+
+[git_diegobruno](http://github.com/diegobrunoDIO/diegobrunoDIO/projects)
+
+
+## Outras referências (pessoal):
+- (Deep learning—a first meta-survey of selected reviews across scientific disciplines, their commonalities, challenges and research impact)[https://peerj.com/articles/cs-773/]
